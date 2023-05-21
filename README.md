@@ -1,1 +1,1 @@
-# Floating-Navigation-Menu--ReactJS
+# Floating-Navigation-Menu-ReactJS
